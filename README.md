@@ -11,6 +11,11 @@ https://github.com/LorekeeperZinnia/Dex
 https://create.roblox.com/store/asset/135663306330636/Savi-Dex-Public  
 
 ---
+
+heres our diskord sirbir yey:
+https://discord.gg/2kzrbnSX5g
+
+---
 ### Usage:
 ```lua
 require(135663306330636).sdexv4("ur user")
